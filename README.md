@@ -17,5 +17,4 @@ $damping
 [1] 1
 ```
 
-We can use `http://127.0.0.1:3645/?_state_id_=GUID` to restore that state. <span style="color:orangered;"> 
-Can we hack this? Rather than read an RDS just use a list object to restore the app state?</span>
+We can use `http://127.0.0.1:3645/?_state_id_=GUID` to restore that state.  **Can we hack this? Rather than read an RDS just use a list object to restore the app state?**
